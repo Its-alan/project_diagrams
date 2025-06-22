@@ -664,7 +664,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sIDsPnQFIqTqiY3CjLUT" name="user case">
-    <mxGraphModel dx="976" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -733,22 +733,22 @@
         <mxCell id="RYga48KXvRMjJlSRif_p-4" value="Bank Executive" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYga48KXvRMjJlSRif_p-9" value="Login and&amp;nbsp;&lt;div&gt;Authenticate&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYga48KXvRMjJlSRif_p-9" value="Login and&amp;nbsp;&lt;div&gt;Authenticate&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RYga48KXvRMjJlSRif_p-10" value="Preprocess Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYga48KXvRMjJlSRif_p-10" value="Preprocess Data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RYga48KXvRMjJlSRif_p-11" value="Generate and Export Reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYga48KXvRMjJlSRif_p-11" value="Generate and Export Reports" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="340" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RYga48KXvRMjJlSRif_p-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-12" target="RYga48KXvRMjJlSRif_p-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYga48KXvRMjJlSRif_p-12" value="Calculate Risk Metrics&lt;div&gt;(PD, LGD, EAD)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYga48KXvRMjJlSRif_p-12" value="Calculate Risk Metrics&lt;div&gt;(PD, LGD, EAD)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="340" y="390" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RYga48KXvRMjJlSRif_p-13" value="Compute ECL&lt;div&gt;Values&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYga48KXvRMjJlSRif_p-13" value="Compute ECL&lt;div&gt;Values&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="340" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RYga48KXvRMjJlSRif_p-14" value="Audit Logging /&amp;nbsp;&lt;div&gt;History Tracking&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -757,7 +757,7 @@
         <mxCell id="RYga48KXvRMjJlSRif_p-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-15" target="RYga48KXvRMjJlSRif_p-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYga48KXvRMjJlSRif_p-15" value="Query Financial&lt;div&gt;Data&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYga48KXvRMjJlSRif_p-15" value="Query Financial&lt;div&gt;Data&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
