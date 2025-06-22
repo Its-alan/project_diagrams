@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="27.1.6" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="27.1.6" pages="5">
   <diagram id="o0mqigfqTaJILm-zxoIO" name="dfd (ECL project)">
     <mxGraphModel dx="976" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -659,6 +659,106 @@
         </mxCell>
         <mxCell id="LGj7SPz9lpGLLmDP7B3s-49" value="calculating PD, LGD,&amp;nbsp;&lt;div&gt;EAD &amp;amp; ECL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;rounded=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="223" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sIDsPnQFIqTqiY3CjLUT" name="user case">
+    <mxGraphModel dx="976" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RYga48KXvRMjJlSRif_p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-1" target="RYga48KXvRMjJlSRif_p-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RYga48KXvRMjJlSRif_p-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-1" target="RYga48KXvRMjJlSRif_p-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-1" target="RYga48KXvRMjJlSRif_p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-1" target="RYga48KXvRMjJlSRif_p-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-1" target="RYga48KXvRMjJlSRif_p-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-1" value="System User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-2" target="RYga48KXvRMjJlSRif_p-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="480" />
+              <mxPoint x="250" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-2" target="RYga48KXvRMjJlSRif_p-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="480" />
+              <mxPoint x="280" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-2" target="RYga48KXvRMjJlSRif_p-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="480" />
+              <mxPoint x="290" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-2" value="Database system" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-3" target="RYga48KXvRMjJlSRif_p-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-3" target="RYga48KXvRMjJlSRif_p-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-3" value="Regulatory Body (RBI)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-4" target="RYga48KXvRMjJlSRif_p-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-4" value="Bank Executive" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-9" value="Login and&amp;nbsp;&lt;div&gt;Authenticate&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-10" value="Preprocess Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-11" value="Generate and Export Reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-12" target="RYga48KXvRMjJlSRif_p-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-12" value="Calculate Risk Metrics&lt;div&gt;(PD, LGD, EAD)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-13" value="Compute ECL&lt;div&gt;Values&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-14" value="Audit Logging /&amp;nbsp;&lt;div&gt;History Tracking&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="620" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYga48KXvRMjJlSRif_p-15" target="RYga48KXvRMjJlSRif_p-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYga48KXvRMjJlSRif_p-15" value="Query Financial&lt;div&gt;Data&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
